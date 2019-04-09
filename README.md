@@ -1,6 +1,6 @@
 # Code 
 This repository houses the code for **Go Wide, Go Deep:  Quantifying the Impact of Scientific Papers through Influence Dispersion Trees**
-(accepted at *ACM/IEEE Joint Conference on Digital Libraries* authored by Dattatreya Mohapatra, Abhishek Maiti, Sumit Bhatia & Tanmoy Chakraborty. 
+(accepted at *ACM/IEEE Joint Conference on Digital Libraries*) authored by Dattatreya Mohapatra, Abhishek Maiti, Sumit Bhatia & Tanmoy Chakraborty. 
 
 ## Instruction
 The NID of an paper can be calculated in two ways using this repository. 
