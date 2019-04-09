@@ -1,0 +1,252 @@
+Paper,Authors,Year of publication,Year of announcement,Venue,Awarded By
+"A Scalable, Commodity Data Center Network Architecture","Mohammad Al-Fares, Alexander Loukissas, and Amin Vahdat.",2008,2018,SIGCOMM,SIGCOMM
+XORs in the air: practical wireless network coding,"Sachin Katti, Hariharan Rahul, Wenjun Hu, Dina Katabi, Muriel Médard, and Jon Crowcroft",2006,2018,SIGCOMM,SIGCOMM
+Ethane: Taking control of the Enterprise,"Martin Casado, Michael J. Freedman, Justin Pettit, Jianying Luo, Nick McKeown, Scott Shenker",2007,2017,SIGCOMM,SIGCOMM
+Measurement and analysis of online social networks,"Alan Mislove, Massimiliano Marcon, Krishna P. Gummadi, Peter Druschel, Bobby Bhattacharjee",2007,2017,IMC,SIGCOMM
+Link-level measurements from an 802.11b mesh network,"Daniel Aguayo, John Bicket, Sanjit Biswas, Glenn Judd, Robert Morris",2004,2016,SIGCOMM,SIGCOMM
+A first-principles approach to understanding the Internet's router-level topology,"Lun Li, David Alderson, Walter Willinger, John Doyle",2004,2016,SIGCOMM,SIGCOMM
+A clean slate 4D approach to network control and management.,"Albert Greenberg, Gisli Hjalmtysson, David A. Maltz, Andy Myers, Jennifer Rexford, Geoffrey Xie, Hong Yan, Jibin Zhan, and Hui Zhang",2005,2015,CCR,SIGCOMM
+Sizing router buffers,"Guido Appenzeller, Isaac Keslassy, and Nick McKeown",2004,2015,SIGCOMM,SIGCOMM
+Congestion Control for High Bandwidth-Delay Product Networks,"Dina Katabi, Mark Handley, and Charlie Rohrs",2002,2014,SIGCOMM,SIGCOMM
+Measuring ISP Topologies with Rocketfuel,"Neil Spring, Ratul Mahajan, and David Wetherall",2002,2014,SIGCOMM,SIGCOMM
+PlanetLab: an overlay testbed for broad-coverage services,"Brent Chun, David Culler, Timothy Roscoe, Andy Bavier, Larry Peterson, Mike Wawrzoniak and Mic Bowman",2003,2013,CCR,SIGCOMM
+A delay-tolerant network architecture for challenged internets,Kevin Fall,2003,2013,SIGCOMM,SIGCOMM
+Tussle in cyberspace: defining tomorrow's internet,"David Clark, Karen Sollins, John Wroclawski and Bob Braden",2002,2012,ACM SIGCOMM,SIGCOMM
+Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications,"Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, Hari Balakrishnan",2001,2011,ACM SIGCOMM,SIGCOMM
+A Scalable Content-addressable Network,"Sylvia Ratnasamy, Paul Francis, Mark Handley, Richard Karp, Scott Shenker",2001,2011,ACM SIGCOMM,SIGCOMM
+An analysis of BGP convergence properties,Tim Griffin and Gordon Wilfong,1999,2010,SIGCOMM,SIGCOMM
+On Power-Law Relationships of the Internet Topology,"Michalis Faloutsos, Petros Faloutsos, and Christos Faloutsos",1999,2010,SIGCOMM,SIGCOMM
+A Digital Fountain Approach to Reliable Distribution of Bulk Data,"John Byers, Michael Luby, Michael Mitzenmacher, and Ashutosh Rege",1998,2009,ACM SIGCOMM,SIGCOMM
+Internet Routing Instability,"Craig Labovitz, G. Robert Malan, and Farnam Jahanian",1997,2008,ACM SIGCOMM,SIGCOMM
+The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm,"Matthew Mathis, Jeffrey Semke, Jamshid Mahdavi, and Teunis Ott",1997,2007,CCR,SIGCOMM
+Modeling TCP Throughput:  A Simple Model and Its Empirical Validation,"Jitendra Padhye, Victor Firoiu, Don Towsley, and Jim Kurose",1998,2007,ACM SIGCOMM,SIGCOMM
+Towards an Active Network Architecture,David L. Tennenhouse and David J. Wetherall,1996,2007,CCR,SIGCOMM
+End-to-End Routing Behavior in the Internet,Vern Paxson,1996,2006,ACM SIGCOMM,SIGCOMM
+Research Areas in Computer Communication,L. Kleinrock,1974,2006,ACM SIGCOMM,SIGCOMM
+Nomadic Computing - An Opportunity,L. Kleinrock,,2006,ACM SIGCOMM,SIGCOMM
+The ALOHA system,F.F Kuo,1974,2006,ACM SIGCOMM,SIGCOMM
+"Selecting Sequence Numbers,",R. S. Tomlinson,1975,2006,ACM SIGCOMM/SIGOPS Interprocess Communications Workshop,SIGCOMM
+An Overview of the New Routing Algorithm for the ARPANET,"J. M. McQuillan, I. Richter, E. C. Rosen",1979,2006,Sixth Data Comm.Symposium,SIGCOMM
+Congestion Control in IP/TCP Internetworks,J. Nagle,1984,2006,ACM SIGCOMM,SIGCOMM
+Improving Round-Trip Time Estimates in Reliable Transport Protocols,"P. Karn, C. Partridge",1987,2006,SIGCOMM,SIGCOMM
+Fragmentation Considered Harmful,"C. A. Kent, J. C. Mogul ",1987,2006,SIGCOMM,SIGCOMM
+Multicast Routing in Internetworks and Extended LANs,S. Deering,1988,2006,SIGCOMM,SIGCOMM
+The Design Philosophy of the DARPA Internet Procotols,D. D. Clark,1988,2006,SIGCOMM,SIGCOMM
+Development of the Domain Name System,"P. V. Mockapetris, K. J. Dunlap",1988,2006,SIGCOMM,SIGCOMM
+Measured Capacity of an Ethernet: Myths and Reality,"D. R. Boggs, J. C. Mogul, C. A. Kent",1988,2006,SIGCOMM,SIGCOMM
+A Binary Feedback Scheme for Congestion Avoidance in Computer Networks with a Connectionless Network Layer,"K. K. Ramakrishnan, R. Jain",1988,2006,SIGCOMM,SIGCOMM
+Congestion Avoidance and Control,V. Jacobson,1988,2006,SIGCOMM,SIGCOMM
+Analysis and Simulation of a Fair Queueing Algorithm,"A. Demers, S. Keshav, S. Shenker",1989,2006,SIGCOMM,SIGCOMM
+A Control-Theoretic Approach to Flow Control,S. Keshav,1991,2006,SIGCOMM,SIGCOMM
+On the Self-Similar Nature of Ethernet Traffic,"W. E. Leland, M. S. Taqqu, W. Willinger, D. V. Wilson",1993,2006,SIGCOMM,SIGCOMM
+BLEU: a Method for Automatic Evaluation of Machine Translation,"Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu",2002,2018,ACL,NAACL
+Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms,Michael Collins,2002,2018,EMNLP,NAACL
+Thumbs up? Sentiment Classification using Machine Learning Techniques,"Bo Pang, Lillian Lee, Shivakumar Vaithyanathan",2002,2018,EMNLP,NAACL
+Pervasive Computing: Vision and Challenges,M. Satyanarayanan,2001,2018,IEEE Personal Communications,SIGMOBILE
+Ad-hoc On-Demand Distance Vector Routing,Charles E. Perkins and Elizabeth M. Royer,1999,2018,WMCSA,SIGMOBILE
+Wake on Wireless: An Event Driven Energy Saving Strategy for Battery Operated Devices,"Eugene Shih, Paramvir Bahl and Michael J. Sinclair",2002,2018,ACM MobiCom,SIGMOBILE
+Network Information Flow,"Rudolf Ahlswede, Ning Cai,  Shuo-Yen Robert Li and Raymond W. Yeung",2000,2018,IEEE Transactions on Information Theory,SIGMOBILE
+CarTel: A Distributed Mobile Sensor Computing System,"Bret Hull, Vladimir Bychkovsky, Yang Zhang, Kevin Chen, Michel Goraczko, Allen K. Miu, Eugene Shih, Hari Balakrishnan and Samuel Madden",2006,2018,ACM SenSys,SIGMOBILE
+Improving web search ranking by incorporating user behavior information,"Eugene Agichtein, Eric Brill, and Susan Dumais",2006,2018,SIGIR,SIGIR
+Personalizing search via automated analysis of interests and activities,"Jaime Teevan, Susan T. Dumais, Eric Horvitz",2005,2018,SIGIR,SIGIR
+Accurately interpreting clickthrough data as implicit feedback,"Thorsten Joachims, Laura Granka, Bing Pan, Helene Hembrooke, and Geri Ga",2005,2018,SIGIR,SIGIR
+Stuff I’ve seen: a system for personal information retrieval and re-use,"Susan Dumais, Edward Cutrell, JJ Cadiz, Gavin Jancke, Raman Sarin, and Daniel C. Robbins",2003,2018,SIGIR,SIGIR
+Beyond independent relevance: methods and evaluation metrics for subtopic retrieval,"ChengXiang Zhai, William W. Cohen, and John Lafferty",2003,2018,SIGIR,SIGIR
+Serializable isolation for snapshot databases,"Michael Cahill, Uwe Röhm, Alan Fekete",2008,2018,SIGMOD,SIGMOD
+Fault-tolerance in the Borealis distributed stream processing system,"Magdalena Balazinska, Hari Balakrishnan, Samuel Madden, Michael Stonebraker",2005,2017,SIGMOD,SIGMOD
+Provenance Management in Curated Databases,"Peter Buneman, Adriane Chapman, James Cheney",2006,2016,SIGMOD,SIGMOD
+Robust and Fast Similarity Search for Moving Object Trajectories,"Lei Chen, M. Tamer Özsu, Vincent Oria",2005,2015,SIGMOD,SIGMOD
+Order-Preserving Encryption for Numeric Data,"Rakesh Agrawal, Jerry Kiernan, Ramakrishnan Srikant, Yirong Xu",2004,2014,SIGMOD,SIGMOD
+The Design of an Acquisitional Query Processor for Sensor Networks,"Samuel Madden, Michael J. Franklin, Joseph M. Hellerstein, Wei Hong",2003,2013,SIGMOD,SIGMOD
+Executing SQL over Encrypted Data in the Database-Service-Provider Model.,"Hakan Hacigumus, Bala Iyer, Chen Li, Sharad Mehrotra",2002,2012,SIGMOD,SIGMOD
+"Optimizing Queries Using Materialized Views: A Practical, Scalable Solution",Jonathan Goldstein and Per-Åke Larson,2001,2011,SIGMOD,SIGMOD
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases,"Jianjun Chen, David J. DeWitt, Feng Tian, and Yuan Wang",2000,2010,SIGMOD,SIGMOD
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets,Jeffrey Scott Vitter and Min Wang,1999,2009,SIGMOD,SIGMOD
+Integration of Heterogeneous Databases without Common Domains Using Queries Based on Textual Similarity,William W. Cohen ,1998,2008,SIGMOD,SIGMOD
+Online Aggregation,"Joseph M. Hellerstein, Peter J. Haas, and Helen J. Wang",1997,2007,SIGMOD,SIGMOD
+BIRCH: An Efficient Data Clustering Method for Very Large Databases,"Tian Zhang, Raghu Ramakrishnan, and Miron Livny",1996,2006,SIGMOD,SIGMOD
+Implementing Data Cubes Efficiently,"Venky Harinarayan, Anand Rajaraman, and Jeffrey D. Ullman",1996,2006,SIGMOD,SIGMOD
+View Maintenance in a Warehousing Environment,"Yue Zhuge, Hector Garcia-Molina, Jennifer Widom, Joachim Hammer",1995,2005,SIGMOD,SIGMOD
+From Structured Documents to Novel Query Facilities,"Vassilis Christophides, Serge Abiteboul, Sophie Cluet, and Michel Scholl ",1994,2005,SIGMOD,SIGMOD
+Shoring Up Persistent Applications,"Michael J. Carey, David J. DeWitt, Michael J. Franklin, Nancy E. Hall, Mark L. McAuliffe, Jeffrey F. Naughton, Daniel T. Schuh, Marvin H. Solomon, C. K. Tan, Odysseas G. Tsatalos, Seth J. White, and Michael J. Zwilling",1994,2004,SIGMOD,SIGMOD
+Mining Association Rules Between Sets of Items in Large Databases,"Rakesh Agrawal, Tomasz Imielinski, and Arun Swami",1993,2003,SIGMOD,SIGMOD
+Extensible/Rule Based Query Rewrite Optimization in Starburst,"H. Pirahesh, J. M. Hellerstein, and W. Hasan",1992,2002,SIGMOD,SIGMOD
+Querying Object-Oriented Databases,"M. Kifer, W. Kim, and Y. Sagiv",1992,2002,SIGMOD,SIGMOD
+Encapsulation of Parallelism in the Volcano Query Processing System.,Goetz Graefe,1990,2000,SIGMOD,SIGMOD
+Set-Oriented Production Rules in Relational Database Systems,Jennifer Widom and Shel Finkelstein,1990,2000,SIGMOD,SIGMOD
+"F-Logic: A Higher-Order Language for Reasoning About Objects, Inheritance, and Scheme",Michael Kifer and Georg Lausen,1989,1999,SIGMOD,SIGMOD
+A Case for Redundant Arrays of Inexpensive Disks (RAID),"David A. Patterson, Garth A. Gibson, and Randy H. Katz",1988,1999,SIGMOD,SIGMOD
+Factorization meets the neighborhood: a multifaceted collaborative filtering model,"Yehuda Koren, Google Israel",2008,2018,KDD,SIGKDD
+Training Linear SVMs in Linear Time,Thorsten Joachims,2006,2017,KDD,SIGKDD
+"Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations","Jure Leskovec, Jon Kleinberg, Christos Faloutsos",2005,2016,KDD,SIGKDD
+Optimizing Search Engines using Clickthrough Data,Thorsten Joachims,2002,2015,KDD,SIGKDD
+A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise,,1996,2014,KDD,SIGKDD
+Random Features for Large-Scale Kernel Machines,"Ali Rahimi, Benjamen Recht",2007,2017,NIPS,NIPS
+YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia,"Suchanek , Kasneci and Weikum",2007,2018,WWW,WWW
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment,Natasha Noy and Mark A. Musen,2000,2018,AAAI,AAAI
+Monte Carlo Localization: Efficient Position Estimation for Mobile Robots,"Dieter Fox, Wolfram Burgard, Frank Dellaert, and Sebastian Thrun",1999,2017,AAAI,AAAI
+The Interactive Museum Tour-Guide Robot,"Wolfram Burgard, Armin B. Cremers, Dieter Fox, Dirk Hähnel, Gerhard Lakemeyer, Dirk Schulz, Walter Steiner, and Sebastian Thrun",1998,2016,AAAI,AAAI
+Statistical Parsing with a Context-Free Grammar and Word Statistics,Eugene Charniak,1997,2015,AAAI,AAAI
+Syskill & Webert: Identifying Interesting Web Sites,"Michael J. Pazzani, Jack Muramatsu, and Daniel Billsus",1996,2014,AAAI,AAAI
+A Filtering Algorithm for Constraints of Difference in CSPs,Jean-Charles Rëgin,1994,2013,AAAI,AAAI
+Learning Interface Agents,Pattie Maes and Robyn Kozierok,1993,2012,AAAI,AAAI
+Hard and Easy Distribution of SAT Problems,"Hector Levesque, David Mitchell, and Bart Selman",1992,2011,AAAI,AAAI
+A New Method for Solving Hard Satisfiability Problems,"Hector Levesque, David Mitchell, and Bart Selman",1992,2011,AAAI,AAAI
+Systematic Nonlinear Planning,David McAllester and David Rosenblitt,1992,2010,AAAI,AAAI
+Solving Large-Scale Constraint Satisfaction and Scheduling Problems Using a Heuristic Repair Method,"Steven Minton, Mark D. Johnston, Andrew B. Philips, and Philip Laird",1990,2008,AAAI,AAAI
+Bayesian Classification,"Peter Cheeseman, Matthew Self, Jim Kelly, Will Taylor, and Don Freeman",1988,2007,AAAI,AAAI
+Pengi: An Implementation of a Theory of Activity,Philip E. Agre and David Chapman,1987,2006,AAAI,AAAI
+Reactive Reasoning and Planning,Amy Lansky and Michael P. Georgeff,1987,2006,AAAI,AAAI
+Quantifying the Inductive Bias in Concept Learning,David Haussler,1986,2005,AAAI,AAAI
+A Logic of Implicit and Explicit Belief,Hector Levesque,1984,2004,AAAI,AAAI
+A Variational Approach to Edge Detection,John Canny,1983,2002,AAAI,AAAI
+Reverend Bayes on Inference Engines: A Distributed Hierarchical Approach,Judea Pearl,1982,2000,AAAI,AAAI
+R1: An Expert in the Computer Systems Domain,John McDermott,1980,1999,AAAI,AAAI
+A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning,"Ronan Collobert, Jason Weston",2008,2018,ICML,ICML
+Combining Online and Offline Knowledge in UCT,Sylvain Gelly and David Silver,2007,2017,ICML,ICML
+Collaborative Filtering for Implicit Feedback Datasets ,"Yifan Hu, Yehuda Koren and Chris Volinsky",2008,2017,ICDM,ICDM
+Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights,Robert M. Bell and Yehuda Koren,2007,2016,ICDM,ICDM
+Fast Random Walk with Restart and Its Applications,"Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan",2006,2015,ICDM,ICDM
+Supervised Tensor Learning,"Dacheng Tao, Xuelong Li, Weiming Hu, Stephen Maybank, and Xindong Wu",2005,2014,ICDM,ICDM
+Moment: Maintaining Closed Frequent Itemsets over a Stream Sliding Window,"Yun Chi, Haixun Wang, Philip Yu, and Richard Muntz",2004,2013,ICDM,ICDM
+On the Privacy Preserving Properties of Random Data Perturbation Techniques,"Hillol Kargupta, Souptik Datta, Qi Wang, and Krishnamoorthy Sivakumar",2003,2012,ICDM,ICDM
+gSpan: Graph-Based Substructure Pattern Mining,Xifeng Yan and Jiawei Han,2002,2011,ICDM,ICDM
+Frequent Subgraph Discovery,Michihiro Kuramochi and George Karypis,2001,2010,ICDM,ICDM
+Probabilistic Models of Indexing and Searching,"S. E. Robertson, C. J. van Rijsbergen & M. F. Porter",1980,2014,SIGIR,SIGIR
+The Unified Probabilistic Model for IR,"S. E. Robertson, M. E. Maron & W. S. Cooper",1982,2014,SIGIR,SIGIR
+A Study of the Overlap among Document Representations,P. Das-Gupta & J. Katzer,1983,2014,SIGIR,SIGIR
+The Cluster Hypothesis Revisited,E. M. Voorhees,1985,2014,SIGIR,SIGIR
+A New Theoretical Framework for Information Retrieval,C. J. van Rijsbergen,1986,2014,SIGIR,SIGIR
+Automatic Phrase Indexing for Document Retrieval,J. Fagan,1987,2014,SIGIR,SIGIR
+A Look Back and a Look Forward,K. Spärck Jones,1988,2014,SIGIR,SIGIR
+Information Retrieval using a Singular Value Decomposition Model of Latent Semantic Structure,"G. W. Furnas, S. Deerwester, S. T. Dumais, T. K. Landauer, R. A. Harshman, L. S. Streeter & K. E. Lochbaum",1988,2014,SIGIR,SIGIR
+Towards Interactive Query Expansion,D. Harman,1988,2014,SIGIR,SIGIR
+A Library System for Information Retrieval based on a Cognitive Task Analysis and Supported by an Icon-based Interface,A. M. Pejtersen,1989,2014,SIGIR,SIGIR
+Adaptive Information Retrieval: Using a Connectionist Representation to Retrieve and Learn about Documents,R. K. Belew,1989,2014,SIGIR,SIGIR
+Inference Networks for Document Retrieval,H. Turtle & W. B. Croft,1990,2014,SIGIR,SIGIR
+Scatter/Gather: A Cluster-based approach to Browsing Large Document Collections,"D. R. Cutting, D. R. Karger, J. O. Pedersen & J. W. Tukey",1992,2014,SIGIR,SIGIR
+A Sequential Algorithm for Training Text Classifiers,D. D. Lewis & W. A. Gale,1994,2014,SIGIR,SIGIR
+Some Simple Effective Approximation to the 2-Poisson Model for Probabilistic Weighted Retrieval,S. E. Robertson & S. Walker,1994,2014,SIGIR,SIGIR
+Searching Distributed Collections with Inference Networks,"J. Callan, Z. Lu & W. B. Croft",1995,2014,SIGIR,SIGIR
+Pivoted Document Length Normalization,"A. Singhal, C. Buckley & M. Mitra",1996,2014,SIGIR,SIGIR
+Query Expansion using Local and Global Document Analysis,J. Xu & W. B. Croft,1996,2014,SIGIR,SIGIR
+A Language Modeling Approach to Information Retrieval,J. M. Ponte & W. B. Croft,1998,2014,SIGIR,SIGIR
+Improved Algorithms for Topic Distillation in a Hyperlinked Environment,K. Bharat & M. R. Henzinger,1998,2014,SIGIR,SIGIR
+On-line New Event Detection and Tracking,"J. Allan, R. Papka & V. Lavrenko",1998,2014,SIGIR,SIGIR
+"The use of MMR, Diversity-based Reranking for Reordering Documents and Producing Summaries",J. Carbonell & J. Goldstein,1998,2014,SIGIR,SIGIR
+An Algorithmic Framework for Performing Collaborative Filtering,"J. L. Herlocker, J. A. Konstan, A. Borchers & J. Riedl",1999,2014,SIGIR,SIGIR
+Information Retrieval as Statistical Translation,A. Berger & J. Lafferty,1999,2014,SIGIR,SIGIR
+Probabilistic Latent Semantic Indexing,T. Hofman,1999,2014,SIGIR,SIGIR
+Evaluating Evaluation Measure Stability,C. Buckley & E. M. Voorhees,2000,2014,SIGIR,SIGIR
+IR Evaluation Methods for Retrieving Highly Relevant Documents,K. Järvelin & J. Kekäläinen,2000,2014,SIGIR,SIGIR
+A Study of Smoothing Methods for Language Models applied to Ad Hoc Information Retrieval,C. Zhai & J. Lafferty,2001,2014,SIGIR,SIGIR
+"Document Language Models, Query Models and Risk Minimization for Information Retrieval",J. Lafferty & C. Zhai,2001,2014,SIGIR,SIGIR
+Relevance based Language Models,V. Lavrenko & W. B. Croft,2001,2014,SIGIR,SIGIR
+ Space-time interest points,Laptev and T Lindeberg,2003,2017,ICCV,ICCV
+Recognizing action at a distance,"A. Efros, A Berg, G Mori, J Malik,",2003,2017,ICCV,ICCV
+Video Google: A text retrieval approach to object matching in videos,"J Sivic, A Zisserman",2003,2017,ICCV,ICCV
+Recognising panoramas,"M Brown, D Lowe",2003,2017,ICCV,ICCV
+Discovering objects and their location in images,"J Sivic, B Russell, A Efros, A Zisserman, W Freeman",2003,2017,ICCV,ICCV
+The pyramid match kernel: Discriminative classification with sets of image features,"K Grauman, T Darrell",2005,2017,ICCV,ICCV
+Actions as space-time shapes,"M. Blank, L Gorelick, E Shechtman, M Irani, R Basri",2005,2017,ICCV,ICCV
+A Database of Human Segmented Natural Images and Its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics,"David Martin, Charles Fowlkes, Doron Tal, and Jitendra Malik",2001,2016,ICCV,ICCV
+Matching Shapes,"Serge Belongie, Jitendra Malik, and Jan Puzicha",2001,2016,ICCV,ICCV
+Snakes: Active Contour Models,"Michael Kass, Andrew Witkin and Demetri Terzopoulos",1987,2013,ICCV ,ICCV
+Indexing via color histograms,Michael J. Swain and Dana H. Ballard,1990,2013,ICCV ,ICCV
+"Steerable filters for early vision, image analysis, and wavelet decomposition",Bill Freeman and Ted Adelson,1990,2013,ICCV ,ICCV
+A framework for the robust estimation of optical flow,Michael Black and P. Anandan,1993,2013,ICCV ,ICCV
+Alignment by Maximization of Mutual Information,Paul Viola and William M. Wells III,1995,2013,ICCV ,ICCV
+In Defence of the 8-Point Algorithm,Richard Hartley,1995,2013,ICCV ,ICCV
+Bilateral Filtering for Gray and Color Images,Carlo Tomasi and Roberto Manduchi,1998,2013,ICCV ,ICCV
+A Metric for Distributions with Applications to Image Databases,"Yossi Rubner, Carlo Tomasi and Leonidas J. Guibas",1998,2013,ICCV ,ICCV
+"Region Competition: Unifying Snakes, Region Growing, Energy/Bayes/MDL for Multi-band Image Segmentation",,1995,2013,ICCV ,ICCV
+Flexible Camera Calibration by Viewing a Plane from Unknown Orientations,Zhengyou Zhang,1999,2013,ICCV ,ICCV
+Texture Synthesis by Non-parametric Sampling,Alyosha Efros and Thomas K. Leung,1999,2013,ICCV ,ICCV
+Object Recognition from Local Scale-Invariant Features,David Lowe,1999,2011,ICCV,ICCV
+Fast Approximate Energy Minimization via Graph Cuts,"Yuri Boykov, Olga Veksler, and Ramin Zabih",1999,2011,ICCV,ICCV
+Geodesic Active Contours,"Vincent Caselles, Ron Kimmel, and Guillermo Sapiro",1995,2011,ICCV,ICCV
+Geometric Hashing: A General and Efficient Model-Based Recognition Scheme,Yehezkel Lamdan and Haim J. Wolfson,1988,2009,ICCV,ICCV
+Efficient Query Evaluation on Probabilistic Databases,"Nilesh Dalvi, Dan Suciu",2004,2014,VLDB,VLDB
+Approximate Frequency Counts over Data Streams,"Gurmeet Singh Manku, Rajeev Motwani",2002,2012,VLDB,VLDB
+Generic Schema Matching With Cupid,"Philip A. Bernstein, Jayant Madhavan, Erhard Rahm",2001,2011,VLDB,VLDB
+Database replication: a tale of research across communities,"Bettina Kemme, Gustavo Alonso",2000,2010,VLDB,VLDB
+Database Architecture Optimized for the New Bottleneck: Memory Access,"Peter A. Boncz, Stefan Manegold, Martin L. Kersten",1999,2009,VLDB,VLDB
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces,"Stephen Blott, Hans Schek and Roger Weber",1998,2008,VLDB,VLDB
+An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server,"Surajit Chaudhuri, and Vivek Narasayya",1997,2007,VLDB,VLDB
+Querying Heterogeneous Information Sources using Source Descriptions,"Alon Y. Levy, Anand Rajaraman, and Joann J. Ordille",1996,2006,VLDB,VLDB
+W3QS: A Query System for the World-Wide Web,David Konopnicki and Oded Shmueli,1995,2005,VLDB,VLDB
+Fast Algorithms for Mining Association Rules in Large Databases,Rakesh Agrawal and Ramakrishnan Srikant,1994,2004,VLDB,VLDB
+Universality of Serial Histograms,Yannis E. Ioannidis,1993,2003,VLDB,VLDB
+Querying in Highly Mobile Distributed Environments,T. Imielinski and B. R. Badrinath,1992,2002,VLDB,VLDB
+Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention,Axel Moenkeberg and Gerhard Weikum,1992,2002,VLDB,VLDB
+A Transactional Model for Long-Running Activities,"Umeshwar Dayal, Meichun Hsu, and Rivka Ladin",1991,2001,VLDB,VLDB
+Deriving Production Rules for Constraint Maintainance,Sterfano Ceri and Jennifer Widom,1990,2000,VLDB,VLDB
+ARIES/NT: A Recovery Method Based on Write-Ahead Logging for Nested Transactions,Kurt Rothermel and C. Mohan,1989,1999,VLDB,VLDB
+Disk Shadowing,Dina Bitton and Jim Gray,1988,1998,VLDB,VLDB
+The R+-Tree: A Dynamic Index for Multi-Dimensional Objects,"Timos Sellis, Nick Roussopoulos, and Christos Faloutsos",1987,1997,VLDB,VLDB
+Object and File Management in the EXODUS Extensible Database System,"Michael J. Carey, David J. DeWitt, Joel E. Richardson, and Eugene J. Shekita",1986,1996,VLDB,VLDB
+A Model of CAD Transactions,"François Bancilhon, Won Kim, and Henry F. Korth",1985,1995,VLDB,VLDB
+Feedback-Directed Random Test Generation,"Carlos Pacheco, Shuvendu K. Lahiri, Michael D. Ernst, and Thomas Ball",2007,2017,ICSE,ICSE
+Who Should Fix This Bug,"John Anvik, Lyndon Hiew, and Gail C. Murphy",2006,2016,ICSE,ICSE
+Is Mutation an Appropriate Tool for Testing Experiments?,"James H. Andrews, Lionel C. Briand, and Yvan Labiche",2005,2015,ICSE,ICSE
+Mining Version Histories to Guide Software Changes,"Thomas Zimmerman, Peter Weisgerber, Stephan Diehl and Andreas Zeller",2004,2014,ICSE,ICSE
+Hipikat: Recommending Pertinent Software Development Artifacts,Davor Čubranić and Gail C. Murphy,2003,2013,ICSE,ICSE
+ArchJava: Connecting Software Architecture to Implementation,"Jonathan Aldrich, Craig Chambers, David Notkin",2002,2012,ICSE,ICSE
+Analysis and testing of Web applications,Filippo Ricca and Paolo Tonella,2001,2011,ICSE,ICSE
+A case study of open source software development: the Apache server,"Audris Mockus, Roy T. Fielding, James Herbsleb",2000,2010,ICSE,ICSE
+Bandera: extracting finite-state models from Java source code,"James C. Corbett, Matthew B. Dwyer, John Hatcliff, Shawn Laubach, Corina S. Pasareanu, Robby, Hongjun Zheng",2000,2010,ICSE,ICSE
+N Degrees of Separation: Multi-Dimensional Separation of Concerns,"Peri Tarr, Harold Ossher, William Harrison, and Stanley M. Sutton",1999,2009,ICSE,ICSE
+Architecture-Based Runtime Software Evolution,"Peyman Oreizy, Nenad Medvidovic and Richard N. Taylor",1998,2008,ICSE,ICSE
+Designing Distributed Applications with Mobile Code Paradigms,"Antonio Carzaniga, Gian Pietro Picco and Giovanni Vigna",1997,2007,ICSE,ICSE
+Deriving Specifications from Requirements: An Example,"Michael Jackson, Pamela Zave",1995,2005,ICSE,ICSE
+Formalizing Architectural Connection,"Robert Allen, David Garlan",1994,2004,ICSE,ICSE
+Expressing the Relationships between Multiple Views in Requirements Specification,"Bashar Nuseibeh, Jeff Kramer, Anthony Finkelstein",1993,2003,ICSE,ICSE
+Towards a Method of Programming with Assertions,David S. Rosenblum,1992,2002,ICSE,ICSE
+Tolerating Inconsistency,Robert Balzer,1991,2001,ICSE,ICSE
+The Inscape Environment,Dewayne Perry,1989,1999,ICSE,ICSE
+A Working Environment for the Development of Complex Reactive Systems,"David Harel, Hagi Lachover, Amnon Naamad, Amir Pnueli, Michal Politi, Rivi Sherman, Aharon Shtul-Trauring: Statemate",1988,1998,ICSE,ICSE
+"Process Models, Process Programs, Programming Support",Manny Lehman,1987,1997,ICSE,ICSE
+Software Processes are Software Too,Lee Osterweil,1987,1997,ICSE,ICSE
+Software Technology Maturation,"Sam Redwine Jr., William Riddle",1985,1996,ICSE,ICSE
+The Modular Structure of Complex Systems,"David L. Parnas, Paul C. Clements, David M. Weiss",1984,1995,ICSE,ICSE
+Capturing More World Knowledge in the Requirements Specification,"Sol Greenspan, John Mylopoulos, Alex Borgida",1982,1994,ICSE,ICSE
+Program Slicing,Mark Weiser,1981,1993,ICSE,ICSE
+Software Development Control Based on Module Interconnection,Walter Tichy,1979,1992,ICSE,ICSE
+Designing Software for Ease of Extension and Contraction,David Parnas,1978,1991,ICSE,ICSE
+An Introduction to the Construction and Verification of Alphard Programs,"William A. Wulf, Ralph L. London, Mary Shaw",1976,1990,ICSE,ICSE
+The Source Code Control System,Marc J. Rochkind,1975,1989,ICSE,ICSE
+Dynamically Exploiting Narrow Width Operands to Improve Processor Power and Performance,David Brooks and Margaret Martonosi,1999,2018,HPCA,HPCA
+Statistically rigorous Java performance evaluation,"Andy Georges, Dries Buytaert, Lieven Eeckhout",2007,2017,OOPSLA,OOPSLA
+The DaCapo benchmarks: Java benchmarking development and analysis,"Stephen M. Blackburn, Robin Garner, Chris Hoffmann, Asjad M. Khan, Kathryn S. McKinley, Rotem Bentzur, Amer Diwan, Daniel Feinberg, Daniel Frampton, Samuel Z. Guyer, Martin Hirzel, Antony Hosking, Maria Jump, Han Lee, J. Eliot B. Moss, Aashish Phansalkar, Darko Stefanović, Thomas VanDrunen, Daniel von Dincklage, Ben Wiedermann",2006,2016,OOPSLA,OOPSLA
+X10: An Object-Oriented Approach to Non-Uniform Cluster Computing,"Philippe Charles, Christian Grothoff, Vijay Saraswat, Christopher Donawa, Allan Kielstra, Kemal Ebcioglu, Christoph von Praun, and Vivek Sarkar",2005,2015,OOPSLA,OOPSLA
+Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages,Gilad Bracha and David Ungar,2004,2014,OOPSLA,OOPSLA
+Language Support for Lightweight Transactions,Tim Harris and Keir Fraser,2003,2013,OOPSLA,OOPSLA
+Reconsidering Custom Memory Allocation,"Emery Berger, Benjamin G. Zorn, and Kathryn S. McKinley",2002,2012,OOPSLA,OOPSLA
+Multitasking without compromise: a virtual machine evolution,"Grzegorz Czajkowski, Laurent Daynés",2001,2011,OOPSLA,OOPSLA
+Adaptive Optimization in the Jalapeño JVM,"Matthew Arnold, Stephen Fink, David Grove, Michael Hind, Peter F. Sweeney",2000,2010,OOPSLA,OOPSLA
+Implementing Jalapeño in Java,"Bowen Alpern, C. R. Attanasio, Anthony Cocchi, Derek Lieber, Stephen Smith, Ton Ngo, John J. Barton, Susan Flynn Hummel, Janice C. Shepherd, and Mark Mergen",1999,2009,OOPSLA,OOPSLA
+Ownership Types for Flexible Alias Protection,"David G. Clarke, John M. Potter, and James Noble",1998,2008,OOPSLA,OOPSLA
+Call Graph Construction in Object-Oriented Languages,"David Grove, Greg DeFouw, Jeffrey Dean, and Craig Chambers",1997,2007,OOPSLA,OOPSLA
+Subject Oriented Programming: A Critique of Pure Objects,William Harrison and Harold Ossher,1993,2007,OOPSLA,OOPSLA
+Concepts and Experiments in Computational Reflection,Self: The Power of Simplicity,1987,2007,OOPSLA,OOPSLA
+Self: The power of simplicity,David Ungar and Randall B. Smith,1987,2007,OOPSLA,OOPSLA
+Designing for Disasters,"Kimberly Keeton, Cipriano Santos, Dirk Beyer, Jeffrey Chase, and John Wilkes",2004,2018,FAST,USENIX
+Remus: High Availability via Asynchronous Virtual Machine Replication,"Brendan Cully, Geoffrey Lefebvre, Dutch Meyer, Mike Feeley, Norm Hutchinson, and Andrew Warfield",2008,2018,NSDI,USENIX
+Evaluating SFI for a CISC Architecture,Stephen McCamant and Greg Morrisett,2006,2018,USENIX Security,USENIX
+SnapMirror: File-System-Based Asynchronous Mirroring for Disaster Recovery,"Hugo Patterson, Stephen Manley, Mike Federwisch, Dave Hitz, Steve Kleiman, and Shane Owara",2002,2017,FAST,USENIX
+X-Trace: A Pervasive Network Tracing Framework,"Rodrigo Fonseca, George Porter, Randy H. Katz, Scott Shenker, and Ion Stoica",2007,2017,NSDI,USENIX
+Inferring Internet Denial-of-Service Activity,"David Moore, Geoffrey M. Voelker, and Stefan Savage",2001,2017,USENIX Security,USENIX
+Row-Diagonal Parity for Double Disk Failure Correction,"Peter Corbett, Bob English, Atul Goel, Tomislav Grcanac, Steven Kleiman, James Leong, and Sunitha Sankar",2004,2016,FAST,USENIX
+Pip: Detecting the Unexpected in Distributed Systems,"Patrick Reynolds, Charles Killian, Janet L. Wiener, Jeffrey C. Mogul, Mehul A. Shah, and Amin Vahdat",2006,2016,NSDI,USENIX
+Preventing Privilege Escalation,"Niels Provos, Markus Friedl, and Peter Honeyman",2003,2016,USENIX Security,USENIX
+Hippodrome: Running Circles Around Storage Administration,"Eric Anderson, Michael Hobbs, Kimberly Keeton, Susan Spence, Mustafa Uysal, and Alistair Veitch",2002,2015,FAST,USENIX
+Live Migration of Virtual Machines,"Christopher Clark, Keir Fraser, Steven Hand, Jacob Gorm Hansen, Eric Jul, Christian Limpach, Ian Pratt, and Andrew Warfield",2005,2015,NSDI,USENIX
+Design and Implementation of a Routing Control Platform,"Matthew Caesar, Donald Caldwell, Nick Feamster, Jennifer Rexford, Aman Shaikh, and Jacobus van der Merwe",2005,2015,NSDI,USENIX
+Why Johnny Can’t Encrypt: A Usability Evaluation of PGP 5.0,Alma Whitten and J. D. Tygar,1999,2015,USENIX Security,USENIX
+"ARC: A Self-Tuning, Low Overhead Replacement Cache",Nimrod Megiddo and Dharmendra S. Modha,2003,2014,FAST,USENIX
+Operating System Support for Planetary-Scale Network Services,"Andy Bavier, Mic Bowman, Brent Chun, David Culler, Scott Karlin, Steve Muir, Larry Peterson, Timothy Roscoe, Tammo Spalink, and Mike Wawrzoniak",2004,2014,NSDI,USENIX
+Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks,"Philip Levis, Neil Patel, David Culler, and Scott Shenker",2004,2014,NSDI,USENIX
+Tor: The Second-Generation Onion Router,"Roger Dingledine, Nick Mathewson, and Paul Syverson",2004,2014,USENIX Security,USENIX
+GPFS: A Shared-Disk File System for Large Computing Clusters,Frank Schmuck and Roger Haskin,2002,2013,FAST,USENIX
+StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks,"Crispin Cowan, Calton Pu, Dave Maier, Jonathan Walpole, Peat Bakke, Steve Beattie, Aaron Grier, Perry Wagle, Qian Zhang, and Heather Hinton",1998,2013,USENIX Security,USENIX
+Venti: A New Approach to Archival Storage,Sean Quinlan and Sean Dorward,2002,2012,FAST,USENIX
