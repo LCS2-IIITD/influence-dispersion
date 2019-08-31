@@ -107,4 +107,16 @@ _Please follow the order in which the above points are when converting your data
 Incase of any queries you can reach us at lcs2@iiitd.ac.in
 
 
-
+###Citation
+If this work is helpful for your research, please cite our paper.
+```
+@INPROCEEDINGS{8791146, 
+author={D. {Mohapatra} and A. {Maiti} and S. {Bhatia} and T. {Chakraborty}}, 
+booktitle={2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)}, 
+title={Go Wide, Go Deep: Quantifying the Impact of Scientific Papers Through Influence Dispersion Trees}, 
+year={2019},
+pages={305-314}, 
+keywords={bibliographic systems;citation analysis;data structures;electronic publishing;indexing;trees (mathematics);citations;contemporary papers;scientific papers;influence dispersion trees;scientific impact;citation links;data structure;ideal IDT configuration;NID value;citation count;follow-up papers;influence dispersion index;normalized influence divergence;real-world bibliographic dataset;test of time award;Measurement;Dispersion;Indexes;Organizations;History;Aging;Libraries;Citation analysis;Citation cascades;Scientometrics;Influence dispersion tree}, 
+doi={10.1109/JCDL.2019.00051}, 
+month={June},}
+```
